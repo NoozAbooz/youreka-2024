@@ -1,0 +1,439 @@
+STATION,NAME,DESCRIPTION,LATITUDE,LONGITUDE,STATUS,FIRST_YEAR,LAST_YEAR,TOTAL_YEARS,MISS_YEARS,DESIGNATION
+3007703502,Uxbirdge Brook,"Davis Drive,  Uxbridge Twp,",44.13775764,-79.11259961,A,2002,2021,20,0,urban
+3007703602,Hawkestone Creek,"11Th Ln,  Hawkestone,",44.49636189,-79.46684923,A,2002,2021,20,0,rural
+3007703802,Black River,"High St,  Sutton,",44.30473701,-79.36042573,A,2002,2021,20,0,urban
+3007703902,Holland River,"Yonge St,  Holland Landing,",44.09483164,-79.48995273,A,2002,2021,20,0,urban
+3007704002,Pefferlaw Brook,"Pineview Crt,  Pefferlaw,",44.31673376,-79.20137861,A,2002,2021,20,0,urban
+3007704102,Beaverton River,"At Fish Ladder,  Dwnstrm Mara Rd Bridge,",44.43029614,-79.15510248,A,2002,2021,20,0,rural
+3001600302,Sydenham River,"Grey Cnty Rd 18,  Upstrm Inglis Falls,",44.52217814,-80.93089011,A,1975,2021,42,5,rural
+3001700202,Telfer Creek,"Thompson Memorial Footbridge,  Leith,",44.62385189,-80.87577098,A,1972,2021,45,5,rural
+3001500202,Pottawatomi River,"14Th Street,  Owen Sound,",44.57429939,-80.96008648,A,1975,2021,42,5,rural
+3007702902,Holland River,"Simcoe Cnty Rd 27,  N. Of Schomberg,",44.01385739,-79.67910198,A,1977,2021,37,8,urban
+3007703402,Maskinonge River,"Glenwood Ave,  North Gwillimbury Twp.,",44.22387364,-79.42133711,A,1985,2021,30,7,urban
+3003000202,Bighead River,"Sideroad 13,  St. Vincent Twp.,S. Of Oxmead",44.56987776,-80.64850398,A,1975,2021,42,5,rural
+3003600502,Boyne River,"East Back Ln,  Downstrm Flesherton,",44.27958714,-80.54585836,A,1975,2021,42,5,rural
+3003600902,Beaver River,"Grey Cnty Rd 30,  S. Of Kimberley,",44.34604251,-80.54015148,A,1978,2021,39,5,rural
+3003601002,Beaver River,"Slabtown Rd,  E Of Grey Cnty Rd 13,",44.52027901,-80.46674361,A,2002,2021,20,0,rural
+3004700102,Silver Creek,"At Highway No 26 Collingwood,",44.51964864,-80.27705848,A,1966,2021,47,9,rural
+3004900102,Black Ash Creek,"Highway 26 Collingwood,",44.50618689,-80.23580373,A,1972,2021,22,28,rural
+3005300102,Pretty River,"Pretty River Parkway Bridge,  Collingwood,",44.50308626,-80.19772461,A,1964,2021,52,6,rural
+3005300102,Pretty River,"Pretty River Parkway Bridge,  Collingwood,",44.50308626,-80.19772461,A,1964,2021,52,6,rural
+3005400102,Batteaux River,"At Highway 26 Collingwood,",44.48831889,-80.16709086,A,1964,2021,37,21,rural
+3005702102,Boyne River,"Simcoe Cnty Rd 10,  Dwnstrm Alliston,",44.16306064,-79.82948636,A,1970,2021,51,1,urban
+3005700702,Boyne River,"Simcoe Cnty Rd 10,  Dwnstrm Alliston,",44.16306064,-79.82948636,A,1970,2021,51,1,urban
+3005701002,Pine River,"Upstream Nottawasaga Rv.,  Mill St. Angus,",44.31854764,-79.88647448,A,1972,2021,50,0,rural
+3005702102,Mad River,"Conc 3,  Tosorontio Twp,  Ne Of Glencairn,",44.30520214,-80.00167986,A,1975,2021,47,0,rural
+3005702102,Mad River,"Conc 3,  Tosorontio Twp,  Ne Of Glencairn,",44.30520214,-80.00167986,A,1975,2021,47,0,rural
+3005702502,Nottawasaga River,"Klondike Park Rd.,  Upstrm Wasaga Beach,",44.47547451,-80.00712811,A,1982,2021,40,0,rural
+3005702502,Nottawasaga River,"Klondike Park Rd.,  Upstrm Wasaga Beach,",44.47547451,-80.00712811,A,1982,2021,40,0,rural
+3005702802,Nottawasaga River,"Mono Adjala Townline,  Hockley,",44.02452589,-79.96972211,A,2002,2021,20,0,urban
+3005702802,Nottawasaga River,"Mono Adjala Townline,  Hockley,",44.02452589,-79.96972211,A,2002,2021,20,0,urban
+3005702902,Nottawasaga River,"Simcoe Cnty Rd 21,  Murphy Rd, ,E. Of Baxter",44.24946051,-79.82159811,A,2002,2021,20,0,rural
+3005702902,Nottawasaga River,"Simcoe Cnty Rd 21,  Murphy Rd, ,E. Of Baxter",44.24946051,-79.82159811,A,2002,2021,20,0,rural
+3005703002,Willow Creek,"Simcoe Cnty Rd 28,  S. Of Minesing,",44.42213889,-79.82357036,A,2002,2021,20,0,urban
+3005703002,Willow Creek,"Simcoe Cnty Rd 28,  S. Of Minesing,",44.42213889,-79.82357036,A,2002,2021,20,0,urban
+3005703102,Innisfil Creek,"10Th Sideroad New Tecumseh,  N Of Beeton,",44.13108751,-79.79639598,A,2002,2021,20,0,urban
+3005703102,Innisfil Creek,"10Th Sideroad New Tecumseh,  N Of Beeton,",44.13108751,-79.79639598,A,2002,2021,20,0,urban
+3005703202,Beeton Creek,"11Th Line,  New Tecumseh,  N. Of Beeton,",44.12334439,-79.75892123,A,1998,2021,24,0,urban
+3005703302,Mcintyre Creek,"Sunnidale Road,  Wasaga Beach,",44.46733464,-80.04783873,A,2006,2021,16,0,rural
+3005703402,Coates Creek,"Simcoe Cnty Rd 10,  N. Of Brentwood,",44.36138051,-79.94164286,A,2006,2021,16,0,rural
+3005703502,Bear Creek,"5Th Line,  E. Of Angus,",44.33010151,-79.85476311,A,2006,2021,16,0,rural
+3005703602,Black Creek,"Simcoe Cnty Rd 28,  N. Of Grenfell,",44.41881476,-79.82061923,A,2006,2021,16,0,rural
+3005703702,Marl Creek,"Hwy 26,  N. Of Minesing,",44.45713651,-79.85497086,A,2006,2021,16,0,rural
+3006600102,Copeland Creek,"Lafontaine Rd,  Penetang,",44.76173314,-79.95878136,A,2002,2021,20,0,rural
+3007000302,Wye River,"Footbridge,  Outlet Of Wye Marsh,Ste. Marie Site",44.73194951,-79.84641461,A,2002,2021,20,0,rural
+3007000402,Wye River,"Dawsons Rd,  E. Of Wyevale,",44.64988101,-79.90361398,A,2002,2021,20,0,rural
+3007000502,Wye River,"Simcoe Rd 27,  Elmvale,",44.57712664,-79.86026898,A,2002,2021,20,0,rural
+3007300202,Hog Creek,"Granny White Sdrd,  South Of,Victoria Harbour",44.72605614,-79.77889261,A,2002,2021,20,0,rural
+3007300302,Hog Creek,"Old Fort Rd,  At Hogg Valley Rd,",44.68728901,-79.79179673,A,2002,2021,20,0,rural
+3007500202,Sturgeon River,"Rosemount Rd,  Sturgeon Bay,",44.73010676,-79.72941161,A,2002,2021,20,0,rural
+3007600302,Coldwater River,"Simcoe Cnty Rd 17,  Downtown Coldwater,",44.70729676,-79.64358186,A,2002,2021,20,0,rural
+3007600402,Coldwater River,"9Th Ln N,  Medonte Twp,  Near Hwy 400,",44.64546101,-79.63457136,A,2002,2021,20,0,rural
+3007600502,North River,"Laughlin Falls Rd,  Laughlin Falls,",44.76757014,-79.57837298,A,2002,2021,20,0,rural
+3007600602,Silver Creek,"0.5Km W. Of Carlyon Ln,  On Trail, ,Former Railroad",44.66792451,-79.45662573,A,2002,2021,20,0,rural
+3007700202,Holland River,"Reg Rd 1,  Bradford,",44.11323614,-79.54583973,A,1965,2021,50,7,urban
+3007700702,Aurora Creek,"Yonge St N Of St. Andrew'S College,Aurora",44.02220026,-79.47285473,A,1964,2021,51,7,urban
+3007701302,Severn River,"Outlet Of Gloucester Pool, ,Dam At Port Severn",44.80375139,-79.72022748,A,1968,2021,46,8,rural
+3007702102,Mount Albert Creek,"Queensville Sdrd,  N Of Mount Albert,",44.16663039,-79.32748086,A,1971,2021,45,6,urban
+3007702802,Lovers Creek,"Tollendale Road,  Barrie,",44.37225239,-79.65129523,A,1974,2021,40,8,urban
+1010400202,Current River,"At Highways 11 And 17 Thunder Bay,",48.48247952,-89.18801899,A,1968,2021,42,12,urban
+1010500102,Mc Vicar Creek,"At Cumberland Street Thunder Bay,",48.43965452,-89.21410974,A,1966,2021,44,12,urban
+1010600202,Mc Intyre River,"Highway 11 & 17 City Of Thunder Bay,",48.39965814,-89.24543749,A,1972,2021,38,12,urban
+1010700202,Neebing River,"Hwys.11&17 West Of Maplewood Side Road,",48.38122752,-89.35788387,A,1968,2021,42,12,urban
+1010700402,Neebing River,"Neebing River,  Near Thunder Bay And Near,Hydat Station",48.38338889,-89.30655556,A,2012,2021,9,0,urban
+1010800102,Kaministiquia River,"James St(Hwy 61B),  Thunder Bay,",48.35863464,-89.28760749,A,1966,2021,49,7,urban
+1010800602,Slate River,"Candy Mountain Road,",48.32579589,-89.40438324,A,2008,2021,14,0,urban
+3013301302,Duchesnay River,"Hwy.17B Downstream Of Nordfibre,",46.329222,-79.50321,A,1968,2021,40,13,rural
+3013301902,Chippewa Creek,"At Mouth,  Memorial Dr, ,Amelia Park,  North Bay",46.301073,-79.459227,A,1968,2021,43,10,rural
+3013302402,La Vase River,"At Mouth North Bay,",46.241797,-79.419694,A,1973,2021,27,21,rural
+3013303002,Wasi River,"Lake Nosbonsing Rd,  Hwy 564, ,S. Of Callander",46.196399,-79.366542,A,1984,2021,28,9,rural
+3013304002,South River,"South River,  Chapman'S Landing,",46.104045,-79.525517,A,2017,2021,4,0,rural
+3013400102,Wanapitei River,"Hwy 537,  St. Cloud,",46.39508052,-80.80042673,A,1968,2021,46,8,urban
+3013400302,Emery Creek,"Upstream From Wanapitei River Wahnapitae,",46.52989664,-80.74367511,A,1968,2021,31,23,urban
+3013401802,East Wanapitei River,"Portelance Rd,  Upstream Lake Wanapitei,",46.90332939,-80.83870886,A,2007,2021,15,0,urban
+4001000302,Ruscom River,"Ruscom River,  Trepanier Rd,  N.Of Hwy 401,",42.24355614,-82.61438286,A,1991,2021,24,7,urban
+4001301402,North Thames River,"Fanshaw Lake Dam,Fanshawe Conservation Area",43.04171664,-81.18229186,A,1965,2021,13,44,urban
+4001301602,Thames River,"Dundas St,   Woodstock Dnstrm,Pittock Res.",43.12633764,-80.77928186,A,1964,2021,52,6,rural
+4001301702,Cedar Creek,"Ingersoll Road,  Woostock,",43.12741876,-80.77084186,A,1964,2021,31,27,rural
+4001302502,Avon River,"Perth Cnty Rd 32,  Dwnstrm Stratford,",43.36605826,-81.01866973,A,1967,2021,54,1,rural
+4001302902,Dingman Creek,"Kilbourne Rd, 1St Conc Dwnstrm, Lambeth,",42.91414551,-81.31366036,A,1972,2021,48,2,urban
+4001303302,Big Creek,"Road 310,  Lakeshore,  W. Of Strangfield,(Formerly Conc 10,  Tilbury West Twp)",42.19263914,-82.51680573,A,1974,2021,42,6,urban
+4001304102,Middle Thames River,"Rd 64,  Dwnstrm Thamesford,",43.03141939,-80.99848748,A,1975,2021,45,2,rural
+4001304202,Thames River,"Dwnstrm Ingersoll,  N. Of Cnty Rd. 9,",43.01864126,-80.92690923,A,1975,2021,41,6,rural
+4001304402,North Thames River,"Ln 32,  Dwnstrm Mitchell,",43.45058551,-81.20725048,A,1975,2021,45,2,rural
+4001304702,Thames River,"Middlesex Cnty Rd 16,  Se Of Komoka,",42.93474951,-81.42151298,A,1975,2021,46,1,urban
+4001305002,North Thames River,"Thorndale Rd,  Upstrm Fanshawe Lake,",43.09624414,-81.16853661,A,1975,2021,41,6,urban
+4001305702,White Ash Creek,"Magnavilla Line,  S. Of Thamesville,(Previously Ended 31-Dec-1977)",42.54024949,-81.96321847,A,1976,2021,13,33,rural
+4001305802,Thames River,"Kent Bridge Rd,  Kent Bridge,",42.51391626,-82.07167161,A,1976,2021,41,5,rural
+4001306302,Komoka Creek,"Glendon Dr,  Komoka,",42.93796101,-81.44090948,A,1983,2021,20,19,urban
+4001306402,Trout Creek,"Perth County Rd 9,  Dnstrm Wildwood,Reservoir",43.26643989,-81.08411186,A,1979,2021,42,1,rural
+4001306602,Trout Creek,"33Rd Ln,  Zorra Twp,  Upstrm Wildwood,Reservoir",43.25235764,-80.98515886,A,1979,2021,42,1,rural
+4001306802,Reynolds Creek,"W. Of Putnam Rd,  S. Of Hwy 401,",42.97333726,-80.95212698,A,1979,2021,29,14,urban
+4001307302,Newbiggin Creek,"Dundonald Rd,  S. Of Glencoe,",42.71793864,-81.66988373,A,1982,2021,34,6,rural
+4001308002,Thames River,"S. Thames Rvr,  Oxford Co.Rd. 29, Innerkip,",43.21543364,-80.69161523,A,1988,2021,32,2,rural
+4001308102,Mcgregor Creek,"Communication Rd. Near Hwy 401, ,S.E. Of Chatham",42.38328064,-82.09484398,A,2002,2021,20,0,rural
+4001308202,Thames River,"Jacob Rd,  Kent Cnty Rd 35 Prairie Siding,",42.35543939,-82.32007686,A,2002,2021,20,0,rural
+4001308302,Thames River,"Currie Rd,  Reg Rd 8,  Nw Of Dutton,",42.73153714,-81.57772073,A,2002,2021,20,0,urban 
+4001308602,Oxbow Creek,"Vanneck Rd,  Kilworth,",42.96305914,-81.40696673,A,2003,2021,19,0,urban 
+4001308902,Flat Creek,"Rd 137,  Blanshard Twp,",43.28490076,-81.17250548,A,2003,2021,19,0,rural
+4001309002,Fish Creek,"Perth Cnty Rd 139,  N. Of Prospect Hill,",43.22063426,-81.23680886,A,2003,2021,19,0,rural
+4001309202,Black Creek,"Perth Cnty Rd 20,  E. Of Fullarton,",43.37517101,-81.18445348,A,2003,2021,19,0,rural
+4001309402,Otter Creek,"Rd 133,  Blanchard Twp,  N. Of St. Marys,",43.27880964,-81.16672448,A,2003,2021,19,0,rural
+4001309502,Gregory Creek,"Nissouri Rd,  Sw Of Cherry Grove,",43.16653189,-81.18986186,A,2003,2021,19,0,urban
+4001309602,Stoney Creek,"Windermere Rd,  London,",43.02232064,-81.25200786,A,2003,2021,19,0,urban
+4001309702,Waubuno Creek,"Gore Rd,  W. Of London,",42.99450364,-81.11663423,A,2003,2021,19,0,urban
+4001309802,Wye Creek,"Rebecca Rd,  Upstrm Fanshawe Lake,",43.06949739,-81.15827111,A,2003,2021,19,0,urban
+4001310902,Fleming Creek,"Fleming Line(300 Metres W Of Furnival Rd,",42.63064389,-81.77004198,A,2011,2021,11,0,rural
+4001311002,Jeannettes Creek,"Jeannettes Creek At Merlin Road,",42.32507451,-82.33001348,A,2011,2021,11,0,rural
+4002700402,Bear Creek,"Marthaville Rd,  Sw Of Petrolia,",42.86419764,-82.16923398,A,1967,2021,50,5,rural
+4002700702,Sydenham River,"Katesville Dr. Sw Of Strathroy,",42.93126914,-81.66791098,A,1969,2021,48,5,urban
+4002700802,Bear Creek,"Bickford Ln,  Ne Of Avonry,",42.76407739,-82.34158173,A,1975,2021,42,5,rural
+4002700902,Black Creek,"Marthaville Rd W. West Of Oil Springs,",42.78694901,-82.17194086,A,1975,2021,42,5,rural
+4002701202,Sydenham River,"Shiloh Ln,  Upstrm Alvinston,",42.83087764,-81.85140986,A,1975,2021,42,5,rural
+4002701502,Sydenham River,"Hickory Dr,  Ne Of Strathroy,",42.97589126,-81.59343411,A,2002,2021,20,0,urban
+4002701602,Sydenham River,"Lambton Ln,  Florence,",42.65068239,-82.00877086,A,2002,2021,20,0,rural
+4002701702,Sydenham River,"Hwy 40,  Mcnaughton Ave.,  Wallaceburg,",42.59179026,-82.38763173,A,2002,2021,20,0,rural
+5000600202,Black Creek,"At Qew Bridge,  2 Miles East Of Snyder,",42.96335064,-79.02196436,A,1972,2021,13,37,urban
+6000300102,Four Mile Creek,"Lakeshore Rd,  Niagara Reg Rd 87,",43.25323889,-79.12593486,A,1965,2021,26,31,urban
+6001700102,Twelve Mile Creek,"Lakeport Road St Catharines,",43.20139039,-79.26580248,A,1964,2021,58,0,urban
+6001700702,Twelve Mile Creek,"1St Street Louth Twp. Near Power Glen,",43.11499764,-79.27483361,A,1977,2021,45,0,urban
+6001701002,Twelve Mile Creek,"Roland Rd,  Effingham Tributary,",43.08750789,-79.29199661,A,2003,2021,19,0,urban
+6001701102,Twelve Mile Creek,"Roland Rd,  St. Johns Tributary,",43.08730964,-79.29167323,A,2003,2021,19,0,urban
+6002400102,Twenty Mile Creek,"21 St St,  Vineland,  Upstrm Jordan,Harbour",43.15201751,-79.37448548,A,1964,2021,46,12,urban
+6002400802,Twenty Mile Creek,"At Balls Fall Near Hydat Station,",43.13348326,-79.38363582,A,2012,2021,10,0,uurban
+6002400902,Twenty Mile Creek,"Twenty Mile Creek,  Niagara Rd 20, ,Upstrm Smithville",43.11560596,-79.56650923,A,2014,2021,8,0,urban
+6003800102,Forty Mile Creek,"Downstream From Town Of Grimsby,",43.20004851,-79.55697698,A,1964,2021,24,34,urban
+6005000202,Stoney Creek,"Queenston Rd.,  Stoney Creek At Gauge,",43.22507314,-79.75125473,A,2007,2021,15,0,urban
+6005900102,Sheldon Creek,"Lakeshore Rd,  Burlington,",43.38180289,-79.71732448,A,2007,2021,15,0,urban
+6006000402,Mountsberg Creek,"Hwy.401,  Upstrm Mountsberg Resevoir,",43.46886051,-80.07300286,A,1975,2021,42,5,urban
+6006000702,Bronte Creek,"Petro Canada Park,  N Of Rebecca St,",43.39559389,-79.72279548,A,1999,2021,23,0,urban
+6006000802,Indian Creek,"Appleby Ln,  N Of Zimmerman,",43.43465639,-79.84737548,A,1999,2021,23,0,urban
+6006100302,Fourteen Mile Creek,"At Hwy 2/Lakeshore Road,",43.41860814,-79.69007536,A,2003,2021,5,0,rural
+6006300102,Oakville Creek,"Lakeshore Rd,  Oakville,",43.44293476,-79.67125023,A,1964,2021,57,1,urban
+6006301002,Oakville Creek,"Appleby Ln,  Upstrm Kelso Reservoir,",43.50115226,-79.95219636,A,1975,2021,42,5,urban
+6006301102,East Oakville Creek,"Lower Baseline Rd,  Sixteen Valley,",43.49908114,-79.77659048,A,1975,2021,41,6,urban
+6006301202,West Oakville Creek,"Lower Baseline Road,",43.47417514,-79.79842286,A,2002,2021,20,0,urban
+6006301402,Middle Oakville Creek,"Steeles Ave.,  E. Of 5Th Ln,  Milton,",43.55475226,-79.85686198,A,2002,2021,20,0,urban
+6006800102,Sheridan Creek,"Rattray Marsh,  Meadow Wood Rd,  Clarkson,",43.51593351,-79.61543248,A,1976,2021,46,0,urban
+6007600302,Credit River,"Highway 7 Norval,",43.64721276,-79.85627811,A,1965,2021,57,0,urban
+6007600402,Silver Creek,"Highway 7 Norval,",43.64635939,-79.86622286,A,1964,2021,58,0,urban
+6007600502,Black Creek,"Churchill Rd,  At Acton Stp,",43.62759439,-80.02209311,A,1964,2021,36,22,urban
+6007600602,Credit River,"Highway 10 Dnstr.Orangeville, ,1St Crossing",43.90965439,-80.06325348,A,1964,2021,58,0,urban
+6007600802,Black Creek,"Glen Lawson Rd,  Upstrm Limehouse,",43.62923289,-80.01039811,A,1972,2021,50,0,urban
+6007601002,Credit River,"Heritage Rd And King St,  Terra Cotta,",43.72381351,-79.93099773,A,1973,2021,49,0,urban
+6007601502,West Credit River,"Winston Churchill Blvd,  Dwnstrm Erin,",43.78373676,-80.03480098,A,1975,2021,47,0,rural
+6007601602,Fletcher'S Creek,"Steeles Ave W, Brampton,",43.65858539,-79.74145536,A,1975,2021,47,0,urban
+6007601702,Credit River,"Old Derry Rd,  W. Of Hwy No 10,",43.62214889,-79.73326498,A,1975,2021,47,0,urban
+6007601802,Credit River,"Beachgrove Sideroad, E. Of Alton,",43.85620614,-80.04821261,A,1975,2021,47,0,urban
+6007602202,Silver Creek,"Mountainview Rd,  Georgetown,",43.63747426,-79.88616561,A,1979,2021,43,0,urban
+6007602302,Credit River,"Highpoint Sideroad,  Dwnstr,Dam At Melville",43.88846164,-80.06330648,A,1979,2021,43,0,rural
+6007605002,Credit River,"Mississauga Golf And Country Course,",43.54919451,-79.63327273,A,2003,2021,17,2,urban
+6007605102,Shaw'S Creek,"Mnr Trail,  Alton,",43.85975964,-80.05739011,A,2007,2021,15,0,urban
+6007605202,East Credit River,"Upstream Hwy 10,  North Of Inglewood,",43.80982126,-79.92764911,A,2007,2021,15,0,rural
+6008000602,Etobicoke Creek,"Qew,  Etobicoke,",43.60505564,-79.55975311,A,2002,2021,20,0,urban
+6008000702,Etobicoke Creek West,"North Of Derry,  East Of Dixie,",43.67833164,-79.67950823,A,2002,2021,20,0,urban
+6008200302,Mimico Creek,"The Queensway,  Etobicoke,",43.62847489,-79.49287136,A,1994,2021,22,6,urban
+6008300902,Cold Creek,"King Rd,  Reg Rd 9,  Bolton,",43.88810001,-79.71795598,A,1969,2021,23,30,urban
+6008301802,Humber River,"Upstream Of Hwy 50 & Old Church Rd,",43.92614414,-79.80320748,A,1975,2021,41,6,urban
+6008301902,Humber River,"Old Mill Rd,  Etobicoke,",43.65143464,-79.49132861,A,1979,2021,43,0,rural
+6008310302,Humber River West,"Reg Rd 107,  W. Of Mcvean Drive,Upstream Claireville",43.75823701,-79.67843886,A,2002,2021,20,0,urban
+6008310402,Centreville Creek,"E. Of Humber Station Rd,  Albion Hills Ca,At Gauge",43.92418126,-79.83452048,A,2002,2021,20,0,urban
+6008501402,Don River,"Pottery Rd,  Toronto,",43.68847164,-79.36213573,A,1979,2021,42,1,urban
+6009701102,Rouge River,"Twyn Rivers Dr,  Scarborough,",43.81085851,-79.15978098,A,1973,2021,44,5,urban
+6009701802,Bruce Creek,"Major Mackenzie Dr,  W. Of Kennedy Rd.,",43.89673301,-79.32307036,A,2002,2021,20,0,urban
+6010400102,Duffins Creek,"Bayly St,  Between Church And Westney,Ajax",43.83918989,-79.03983861,A,1964,2021,53,5,urban
+6010400802,Mitchell Creek,"Brock Rd,  Between Conc 8 And 9,S. Of Claremont",43.96144701,-79.12565398,A,1972,2021,27,23,urban
+6010800102,Lynde Creek,"Victoria St W,  Whity,",43.85667164,-78.96067786,A,1964,2021,47,11,urban
+6010800202,Lynde Creek,"Baldwin St S,  N. Of Taunton Rd, ,S. Of Brooklin",43.93360664,-78.96188898,A,1977,2021,21,24,urban
+6011100302,Oshawa Creek West,"Conlin Road W,  N. Of Oshawa,",43.94620801,-78.90366111,A,2003,2021,19,0,urban
+6011100802,Oshawa Creek,"Oshawa Creek,  Thomas St,Oshawa",43.86819778,-78.84614457,A,2014,2021,8,0,urban
+6011200302,Farewell Creek,"Colonel Sam Dr,  Oshawa,",43.88073326,-78.82148323,A,1980,2021,35,7,urban
+6011200602,Black Creek,"Trulls Rd,  Clarington,",43.91156526,-78.78870536,A,2003,2021,19,0,urban
+6011600102,Bowmanville Creek,"West Beach Road,  Bowmanville,",43.89429201,-78.67502098,A,1964,2021,52,6,urban
+6011600502,Bowmanville Creek,"Mill St,  Hampton Conservation Area,",43.96982076,-78.74749473,A,2003,2021,19,0,urban
+6011600602,Bowmanville Creek,"Reg Rd 20,  Long Sault Conservation Area,",44.04234326,-78.73804536,A,2003,2021,18,0,rural
+6011700202,Orono Creek,"Squires Rd,  Sw Of Orono,",43.95709651,-78.61934198,A,1964,2021,47,11,urban
+6011700302,Wilmot Creek,"Reg Rd 2,  1.5 Km W. Of Newcastle,",43.91289539,-78.60870623,A,1973,2021,44,5,urban
+6011800102,Graham Creek,"Mill St S,  Newcastle,  1St Bridge,Upstrm L. Ont.",43.90606064,-78.58288086,A,1964,2021,51,7,urban
+6012900102,Ganaraska River,"Peter St,  Port Hope,",43.94788839,-78.29237698,A,1965,2021,52,5,rural
+6012900202,Ganaraska River,"Sokays Rd,  N. Of Osaca,",44.01504376,-78.43750386,A,1974,2021,21,27,rural
+6012900502,Ganaraska River,"Sylvan Glen Rd.,  E Of Dale,",43.99061964,-78.32816023,A,2002,2021,20,0,rural
+6013000102,Gage Creek,"Reg Rd 2,  2Km E. Of Port Hope,",43.95566151,-78.26639348,A,1964,2021,53,5,rural
+6013300402,Cobourg  Brook,"At Park S. Of Fourth St.,  Cobourg,",43.95586776,-78.17994311,A,1979,2021,38,5,rural
+6013300502,Cobourg Creek West,"Telephone Road,",43.98844226,-78.21093061,A,2002,2021,20,0,rural
+6015700102,Consecon Creek,"At Mill Dam Consecon,",43.99636176,-77.5180321,A,1975,2021,42,4,rural
+6015700302,Consecon Creek,"At Highway 14,",44.03077901,-77.28512935,A,1975,2021,42,4,rural
+6015900102,Slab Creek,"Loyalist Pkwy,  Hwy 33,  S. Of Consecon,",43.97443214,-77.4564001,A,2005,2021,16,0,rural
+6016300102,Bloomfield Creek,"At Church Street Bloomfield,",43.97329951,-77.2464741,A,1975,2021,42,4,rural
+6016400102,Warring Creek,"At Westlake Rd.,",43.96476139,-77.23436973,A,1988,2021,29,4,rural
+6017200102,Black River,"At County Road 17,",43.93569101,-77.09041548,A,1975,2021,42,4,rural
+6018000202,Millhaven Creek,"County Road 5,  Sydenham,",44.40682139,-76.60128585,A,1967,2021,21,34,urban
+6018000302,Millhaven Creek,"First Concession Road North Of Millhaven,",44.21406026,-76.78015448,A,1967,2021,18,37,urban
+6018300202,Collins Creek,"Woodbine Rd,  N. Of Collins Bay,",44.25642601,-76.61269673,A,1967,2021,43,12,urban
+8002100202,The Cut(Ausable River),"Bog Ln,  Lampton Co.Rd 18,  Ne Of Thedford,",43.19331251,-81.81385686,A,1980,2021,40,2,rural
+8002200702,Hensall Creek,"Airport Ln,  W. Of Hensall,",43.42773889,-81.52282998,A,1966,2021,52,4,rural
+8002201002,Little Ausable River,"Denfield Rd,  Middlesex Cnty Rd 20, ,W. Of Lucan",43.18090601,-81.44766011,A,1969,2021,49,4,rural
+8002201202,Parkhill Creek,"Mcinnis Rd,  West Of Parkhill,",43.18501314,-81.72901586,A,1972,2021,39,11,rural
+8002201602,Ausable River,"Conc 2/3 Stephen Twp. W Of Hwy 4,  Exeter,",43.36211689,-81.50944723,A,1975,2021,43,4,rural
+8002201902,Decker Creek,"Gordon Rd,  N Of Thedford,",43.18532864,-81.85668398,A,2000,2021,22,0,rural
+8002202002,Ausable River,"Springbank Rd,  N. Of Springbank,",43.07236764,-81.66025798,A,2003,2021,19,0,rural
+8002202402,Parkhill Creek,"Above Parkhill Reservoir And Near,Hydat Station",43.16391371,-81.63167591,A,2012,2021,10,0,rural
+8004000202,Bayfield River,"Kippen Rd,  Egmondville,",43.53778339,-81.40662223,A,1964,2021,31,27,rural
+8004000802,Bayfield River,"Huron County Road 31 North Of Varna,",43.55071776,-81.58937173,A,1975,2021,43,4,rural
+8005600102,Maitland River,"Hwy 21,  Goderich,",43.75224276,-81.70049673,A,1964,2021,39,19,rural
+8005600202,Blyth Brook,"Currie Ln,  W. Of Blyth,",43.74886951,-81.44591686,A,1964,2021,56,2,rural
+8005600302,Maitland River,"Huron Cnty Rd 86,  3Km Nw Of Wingham,",43.89549764,-81.35349723,A,1964,2021,56,2,rural
+8005600902,Middle Maitland River,"Perth Cnty Rd 169,  Trowbridge,",43.73036839,-81.02807098,A,1964,2021,56,2,rural
+8005602002,Boyle Drain,"Henfryn Ln,  Dwnstrm Henfryn,",43.69298176,-81.09216111,A,1972,2021,37,13,rural
+8005603502,Little Maitland River,"Jamestown Rd,  Grey Twp,  2.5 Km,E. Of Jamestown",43.79870264,-81.16987211,A,1987,2021,33,2,rural
+8005603702,South Maitland River,"Base Ln,  Huron Cnty Rd 8,  Summerhill,",43.68462189,-81.54090248,A,2004,2021,18,0,rural
+8005603802,North Maitland River,"B Ln Rd,  Upstream Wingham,",43.88729901,-81.28256548,A,2004,2021,18,0,rural
+8005603902,Middle Maitland River,"Clegg Ln,  5Km S. Of Wingham,",43.84005139,-81.32055223,A,2004,2021,18,0,rural
+8005604102,Beauchamps Drain,"St Michaels Rd,  S. Of Brussels,",43.70443576,-81.24871023,A,2004,2021,18,0,rural
+8007600102,Lucknow River,"Hwy 21,  Port Albert,",43.87649114,-81.70563998,A,1965,2021,55,2,rural
+8007600202,Lucknow River,"Canning St,  Lucknow,",43.95572514,-81.51721198,A,1965,2021,55,2,rural
+8010300102,Pine River,"Lake Range Dr,  Near Lugan Beach,",44.09370139,-81.72707486,A,1964,2021,35,23,rural
+8010700502,Penetangore River,"Geddes Park,  Kincardine,",44.17040289,-81.63731548,A,2003,2021,19,0,rural
+8012300202,Saugeen River,"Yonge Street,  Walkerton,",44.13468014,-81.15385598,A,1964,2021,52,6,rural
+8012303002,Saugeen River,"Bruce Cnty Rd 3,  N. Of Burgoyne,",44.45609726,-81.32603473,A,2002,2021,20,0,rural
+8012304402,Teeswater River,"Conc 6,  Greenock Twp,  W. Of Chepstow,",44.15257389,-81.28636711,A,1977,2021,39,6,rural
+8012304802,South Saugeen River,"At Egremont-Proton Town, Grey Co,",44.03542626,-80.58140573,A,1984,2021,31,7,rural
+8012305002,Beatty Saugeen River,"Normanby Bentinck Townline Rd,Upstrm Hanover",44.13098289,-80.96736536,A,2002,2021,20,0,rural
+8012305102,South Saugeen River,"Conc 16,  Normanby Twp, Ne Of Neustadt,",44.09852564,-80.98513248,A,2002,2021,20,0,rural
+8012305202,Saugeen River,"35 Sideroad,  Arternesia Twp,",44.24720089,-80.46002998,A,2002,2021,20,0,rural
+8012305302,Rocky Saugeen River,"Conc 2 Wgr,  Bentinck Twp,  Aberdeen,",44.21263151,-80.86270248,A,2002,2021,20,0,rural
+8012305602,Mill Creek,"Conc 6,  Sideroad 18/19,",44.41529576,-81.38327448,A,2002,2021,20,0,rural
+8012305702,Saugeen River,"Conc 2 Gleneig Twp,  Upstrm Durham,",44.18581114,-80.78749348,A,2002,2021,20,0,rural
+8012305802,North Saugeen River,"Conc 8,  Sullivan Twp,  Mooresburg,",44.33514014,-80.97633386,A,2002,2021,20,0,rural
+8012305902,North Saugeen River,"Lockerby Dam,  Elderslie Twp,",44.31874089,-81.24326086,A,2002,2021,20,0,rural
+8013500302,Sauble River,"Bruce County Rd 13,  Sauble Falls,",44.67718051,-81.25546136,A,1970,2021,47,5,rural
+8013500502,Sauble River,"Thomas St,  Allenford,",44.53529476,-81.17765936,A,2002,2021,20,0,rural
+8013500602,Spring Creek,"Allenford Rd,  Ne Of Tolmie,",44.64473576,-81.18539536,A,2002,2021,20,0,rural
+8014400202,Spring Creek,"Hwy 6,  Lindsay,",45.06724777,-81.40897948,A,2018,2021,3,0,rural
+9000100402,Redhill Creek,"Mountain Brow Blvd,  Albion Falls,Hamilton",43.20034451,-79.82013348,A,1979,2021,34,9,urban
+9000100502,Redhill Creek,"Queenston Rd,  Hamilton,",43.23246039,-79.78474873,A,2002,2021,20,0,urban
+9000800502,Spencer Creek,"Market St.,  Dundas,",43.26519314,-79.96422961,A,2002,2021,20,0,urban
+9000800602,Spencer Creek,"Hwy 5,  Upstream Christie Reservoir,",43.28300414,-80.05308886,A,2002,2021,20,0,urban
+9000800702,Spencer Creek,"Safari Rd,  Dwnstrm Beverly Swamp,",43.35303464,-80.07794948,A,2002,2021,20,0,urban
+9000902402,Grindstone Creek,"Unsworth Ave,  Burlington,",43.30128051,-79.86886936,A,2002,2021,20,0,urban
+10000100302,Turkey Creek,"Morton Dr.,  Sw Of Windsor,",42.24458189,-83.07082048,A,2001,2021,21,0,urban
+10000200202,Canard River,"Conc 6, Anderton Twp,  3Km S.Of Lukerville,",42.15905964,-83.01879548,A,1975,2021,43,4,urban
+11000100502,Welland River,"River St,  At New Siphon,  Port Robinson,",43.02862239,-79.21112836,A,1965,2021,46,11,urban
+11000100702,Welland River,"River Rd,  O'Reillys Bridge, ,S. Of Welland Airport",42.97203639,-79.31766686,A,1977,2021,35,10,urban
+11000101202,Welland River,"Welland River,  Church St,  West Lincoln,",43.02132544,-79.61770976,A,2014,2021,8,0,rural
+11000101302,Oswego Creek,"Oswego Creek,  Diltz Rd,  Ne Of Dunnville,",42.98062532,-79.5623277,A,2014,2021,8,0,rural
+12000200402,Little Cataraqui Creek,"Princess St,  Se Of Cataraqui,",44.25205989,-76.53475698,A,1966,2021,56,0,urban
+12000200902,Little Cataraqui Creek,"Service Rd In Conservation Area,",44.28919283,-76.50977822,A,2014,2021,8,0,urban
+12000201002,Little Cataraqui Creek,"West Branch,  Development Drive,",44.24082777,-76.5790854,A,2014,2021,8,0,urban
+12000400202,Cataraqui River,"Dam At Kingston Mills Rd,  Kingston Mills,",44.29378189,-76.4410441,A,1966,2021,56,0,urban
+12000400802,Cataraqui River,"Cataraqui Rvr,  Outlet Of Devil Lake, ,Bedford Mills",44.60431161,-76.40572864,A,2014,2021,8,0,urban
+12001700102,Gananoque River,"Trestle,  Canadian Steel,  Gananoque,",44.32849739,-76.16688548,A,1967,2021,55,0,rural
+12001700202,Gananoque River,"At Road Upstream From Lyndhurst Lake,",44.54612089,-76.12024373,A,1966,2021,14,42,rural
+12002700102,Larue Mills Creek,"Thousand Island Parkway,  Larue Mills,",44.43318339,-75.8835371,A,1972,2021,16,34,rural
+12003100102,Lyn Creek,"Cnty Rd 2,  1Km W. Of Sherwood Springs,",44.52510401,-75.80519548,A,1986,2021,36,0,rural
+12003400102,Butlers Creek,"King St W,  Cnty Rd 2,  Brockville,",44.58559714,-75.69108773,A,1967,2021,55,0,rural
+12007300302,Raisin River,"1St.Bend Downstream Williamstown, ,Off Cnty Rd 17",45.14449477,-74.5776826,A,1976,2021,45,1,rural
+12007300802,Raisin River,"Black Bush Rd,  Dnstrm St. Andrews,",45.10992464,-74.7730631,A,1976,2021,45,1,rural
+12007301102,North Raisin River,"Cemetery Rd,  Upstrm Martintown,",45.15010677,-74.73578523,A,1976,2021,45,1,rural
+12007301502,South Raisin River,"Cashions Rd,  S. Of Cashions Glen,",45.09994402,-74.67696085,A,1976,2021,45,1,rural
+12008000302,Beaudette River,"4Th Ln Road,  Lancaster Twp,E Of Glen Nevis",45.28216877,-74.44978663,A,2011,2021,11,0,rural
+12008600102,Delisle River,"Glen Robertson Rd,  Cnty Rd 10, ,Dwnstrm Alexandria",45.31764314,-74.60216635,A,1980,2021,41,1,rural
+12008600202,Delisle River,"Mccormick Rd,  Upstrm Alexandria Sewage,Lagoons",45.32856752,-74.61790498,A,1980,2021,41,1,rural
+12008600402,Garry River,"Lochiel St.,  Upstrm Alexandria,",45.30295964,-74.63752123,A,1980,2021,41,1,rural
+12008601102,Garry River,"Garry River At Sandfield Ave,  Alexandria,",45.31270786,-74.6322657,A,2011,2021,11,0,rural
+13000300102,Big Carp River,"At Herkimer Street Sault Ste Marie,",46.50622927,-84.44987174,A,1973,2021,33,16,rural
+13000800102,East Davignon Creek,"Near Mouth West Of Algoma Steel,",46.52216677,-84.38080749,A,1972,2021,38,12,rural
+13001100102,Root River,"At Hwy.No.17 East Of Sault Ste Marie,",46.54620264,-84.21850599,A,1968,2021,45,9,rural
+13001100202,Root River,"At Hwy.No.17 North Of Sault Ste Marie,",46.57238489,-84.32113511,A,1972,2021,37,13,rural
+13001101002,Coldwater Creek,"Landslide Rd,",46.56565402,-84.27771561,A,2007,2021,15,0,rural
+14002800302,Junction Creek,"Fielding Rd,  Outlet Of Kelley Lake,E. Of Lively",46.42733327,-81.09777461,A,1968,2021,48,6,rural
+14002801202,Onaping River,"1 Miles Upstream From High Falls,",46.60479002,-81.38126998,A,1968,2021,43,11,urban
+14002802802,Whitson River,"Cnty Rd 15 (Main St) West Of Val Caron,",46.60999802,-81.03282385,A,1970,2021,28,24,urban
+14002803002,Whitson River,"Stobie Dam Dr,  At Bridge In Bradley,",46.53756177,-81.26590261,A,1972,2021,24,26,urban
+14002808902,Lily Creek,"Paris St,  Outlet Of Ramsey Lake,  Sudbury,",46.47268839,-80.99619573,A,2007,2021,15,0,urban
+14002809002,Vermilion River,"Vale Rd,  W Of Lively,",46.43383014,-81.28167248,A,2007,2021,15,0,urban
+14002809102,Levey Creek,"Northwest Bypass,  Outlet Of Whitewater L,",46.52354214,-81.19623523,A,2007,2021,15,0,urban
+16002700102,Sturgeon River,"Sturgeon River,  Cnty Rd 20,  Se Of,Leamington",42.03252989,-82.56499711,A,1966,2021,52,4,urban
+16003000302,Lebo Drain,"Lebo Drain,  Fox Run Rd. E. Of Cnty Rd 37,",42.05544151,-82.50461511,A,2001,2021,21,0,urban
+16003200102,Muddy Creek,"Muddy Creek, Deer Run Rd,  1St Bridge,Upstream L. Erie",42.06681089,-82.46573323,A,1966,2021,47,9,urban
+16003200202,Muddy Creek,"Muddy Creek,  Mersea Rd 21,  2Nd Bridge,Upstream L. Erie",42.08045514,-82.48914098,A,2003,2021,19,0,urban
+16006300202,Sixteen Mile Creek,"Talbot Trail,  W. Of New Glasgow,",42.51777839,-81.63326711,A,2003,2021,19,0,rural
+16007200102,Dutton Drain,"Silver Clay Line,  3.5Km S. Of Dutton,(Also Known As Mckillop Drain)",42.63216426,-81.49352811,A,1968,2021,49,5,rural
+16008700502,Dodd Creek,"Lyle Rd,  W. Of St. Thomas,",42.78717564,-81.26732786,A,1971,2021,25,26,urban
+16008700602,Beaver Creek,"Pond Outlet,  Mill Rd,  Dwnstrm Of Union,",42.70747901,-81.19759173,A,1971,2021,43,8,urban
+16008701002,Kettle Creek,"Elgin Rd 27,  Sparta Ln, ,N. Of Port Stanley",42.69273176,-81.21758436,A,1975,2021,39,8,urban
+16008701502,Kettle Creek,"At County Road No 31 North Of St Thomas,",42.81367439,-81.17260573,A,1978,2021,36,8,urban
+16009700402,Catfish Creek West,"Helkaa Line,  Confluence Of East,And West Branches",42.79065439,-81.07701198,A,1975,2021,12,35,urban
+16009700502,Catfish Creek,"Hwy 3,  Talbot Ln,  W. Of Orwell,",42.77555051,-81.04292436,A,1975,2021,28,19,urban
+16009700802,Catfish Creek,"Rush Creek Ln,  Upstrm Port Bruce,",42.67557389,-81.03765061,A,2003,2021,7,12,urban
+16009900102,Silver Creek,"Nova Scotia Ln,  Elgin Rd 42, ,E. Of Port Bruce",42.67528676,-80.95296561,A,2003,2021,7,12,rural
+16010900702,Big Otter Creek,"Maple Dell Rd,  E. Of Base Line,",42.96592451,-80.54252573,A,1980,2021,36,6,rural
+16010900802,Big Otter Creek,"Calton Ln,  Calton,",42.71094901,-80.84016061,A,2002,2021,20,0,rural
+16010901002,Spittler Creek,"Milldale Rd,  W. Of Otterville,",42.93289214,-80.66202373,A,2002,2021,20,0,rural
+16012401102,Big Creek,"Conc 7,  W. Of Hwy 59,  Nw Of Walsingham,",42.68582701,-80.53842473,A,2002,2021,20,0,rural
+16012401202,Big Creek,"Conc 2 Windham Twp,  S. Of Kelvin,",42.98725914,-80.44485811,A,2002,2021,20,0,rural
+16012401302,Venison Creek,"Reg Rd 60,  W. Of Springarbour,",42.65337501,-80.54849923,A,2002,2021,11,0,rural
+16012401402,Trout Creek,"Massecar Rd,  W. Of Pine Grove,",42.77903976,-80.47588386,A,2002,2021,20,0,rural
+16015900302,Lynn River,"Decou Rd,  Simcoe,",42.82338026,-80.28892861,A,1975,2021,33,14,rural
+16015901002,Kent Creek,"Hwy 3,  W. Of Simcoe,",42.83520639,-80.36721761,A,2002,2021,20,0,rural
+16016400102,Nanticoke Creek,"Reg Rd 3 Nanticoke,",42.80999326,-80.07650586,A,1964,2021,52,6,rural
+16018400902,Nith River,"Grand River St N,  Brant Cnty Rd 75, Paris,",43.19220801,-80.38291848,A,1964,2021,58,0,urban
+16018401002,Grand River,"Glen Morris Rd,  Glen Morris,",43.27897714,-80.34338873,A,1964,2021,58,0,urban
+16018401202,Grand River,"Fountain St S.,  Blair,",43.38660089,-80.38680186,A,1964,2021,58,0,urban
+16018401502,Grand River,"Bridge St,  Bridgeport,",43.48180126,-80.48175198,A,1964,2021,58,0,urban
+16018401602,Canagagigue Creek,"Woolwich Twp Rd 29,  Dnstrm Elmira Stp,",43.58474839,-80.53462448,A,1966,2021,56,0,urban
+16018402702,Grand River,"Cocksutts Bridge,  Erie Ave,  Brantford,",43.10974339,-80.24491061,A,1970,2021,49,3,urban
+16018402902,Conestogo River,"Waterloo St. Reg Rd 22,  Sw Of Conestogo,",43.52485176,-80.51439923,A,1970,2021,52,0,urban
+16018403302,Nith River,"On Trussler Road,",43.27485814,-80.47478311,A,1970,2021,43,9,urban
+16018403402,Speed River,"Edinborough Street Guelph,",43.53362114,-80.25301686,A,1970,2021,42,10,urban
+16018403502,Grand River,"Dover Rd,  Reg Rd 3,  Bridge At Dunnville,",42.90026526,-79.61984636,A,1980,2021,42,0,rural
+16018403602,Speed River,"Wellington Cnty Rd 32,  Sw Of Guelph,",43.48425339,-80.28215011,A,1972,2021,50,0,urban
+16018403702,Grand River,"Centre Wellington 2Nd Ln,  Dwnstrm,Bellwood Lake",43.72484376,-80.34398648,A,1972,2021,50,0,urban
+16018405102,Canagagigue Creek,"1St Conc N. Of Elmira,  Woolwich Twp,Rd 12",43.61624676,-80.56016286,A,1973,2021,49,0,urban
+16018406702,Grand River,"Conc Road No 13 Nw Of Marsville Gr-3,",43.86169926,-80.27242573,A,1975,2021,36,11,rural
+16018407402,Nith River,"Perth Rd.9, 8Miles N.Of Shakespeare Gr-9,",43.48413451,-80.83528511,A,1975,2021,18,29,rural
+16018407502,Conestogo River,"Wellington St,  Drayton Gr-10,",43.75687376,-80.66993298,A,1975,2021,17,30,rural
+16018407702,Conestogo River,"Wellington Cnty Rd 45,  Steel Bridge At,Glen Allan",43.65482551,-80.70206798,A,1975,2021,44,3,rural
+16018409002,Grand River,"In rural Community Of Leggatt,",43.96723276,-80.35494861,A,1977,2021,35,10,rural
+16018409102,Moorefield Creek,"Wellington Cnty Rd 10,  Moorefield,",43.75763276,-80.74877136,A,1977,2021,45,0,rural
+16018409202,Grand River,"Haldimand Norfolk Reg Rd 9,  York,",43.02192951,-79.89199848,A,1977,2021,45,0,rural
+16018409302,Fairchild Creek,"Harris Rd,  Brantford Twp,",43.14896826,-80.17155086,A,1977,2021,45,0,urban
+16018409902,Speed River,"Jones Baseline,  1.5Km N. Of Armstrong,Mills",43.63993089,-80.27013211,A,1978,2021,44,0,urban
+16018410102,Speed River,"Waterloo Reg Rd 8,  King St.,  Cambridge,",43.39966714,-80.36561198,A,1979,2021,43,0,urban
+16018410202,Eramosa River,"Wellington Cnty Rd 41,  Watson Rd S, ,Nw Of Arkell",43.54792364,-80.18239673,A,1979,2021,43,0,urban
+16018410302,Grand River,"Waterloo Reg Rd 86,  West Montrose,",43.58811276,-80.47061973,A,1980,2021,42,0,urban
+16018410602,Whitemans Creek,"Cleaver Rd,  W Of Hwy 24,",43.12609589,-80.38370323,A,1980,2021,42,0,urban
+16018411702,Schneider Creek,"Old Mill Rd,  Kitchener,",43.39380814,-80.41611723,A,2004,2021,18,0,urban
+16018412602,Speed River,"Victoria Road,  Guelph,",43.58793751,-80.27397973,A,2007,2021,15,0,urban
+16018412702,Boomer Creek,"Herrgott Rd, E Of Linwood,",43.702036,-80.445345,A,2007,2021,15,0,rural
+16018412802,Big Creek,"Hwy 54,  Nw Of Caledonia,",43.09604739,-80.03048623,A,2007,2021,15,0,urban
+16018412902,Mckenzie Creek,"Reg Rd 9,  West Of York,",43.02365039,-79.91485911,A,2007,2021,15,0,rural
+16018413002,Laurel Creek,"Bridge St,  W. Of Bridgeport,",43.48237839,-80.48334686,A,2007,2021,15,0,urban
+16018415502,"Nith River,  Huron Road,  Haysville",",",43.3551924,-80.66506784,A,2018,2021,4,0,urban
+17000600102,Cressy Creek,"Cnty Rd 7,  Prinyer Point,  Cressy,",44.08825151,-76.88543898,A,2005,2021,16,0,rural
+17000800102,Picton Creek,"At Conservation Area Pound,",44.00473451,-77.12621173,A,1975,2021,42,4,rural
+17000800202,Marsh Creek,"At Bridge Street,  Picton,",44.00859626,-77.13655748,A,1984,2021,33,4,rural
+17000900102,Hospital Creek,"Cnty Rd 49,  Main St,  Picton,",44.01695514,-77.13610623,A,2005,2021,16,0,rural
+17001400102,Demorestville Creek,"At County Road 14,",44.09080601,-77.21061198,A,1975,2021,42,4,rural
+17001600102,Sawguin Creek,"At County Road 28,",44.10396189,-77.3946996,A,1975,2021,42,4,rural
+17002100302,Crowe River,"Highway 7,  Marmora,",44.48156976,-77.68516723,A,1964,2021,45,12,rural
+17002100702,Ouse River,"Peterborough Cnty Rd 45,  Norwood,",44.38065864,-77.97732373,A,1964,2021,52,6,urban
+17002100802,Otonabee River,"Peterborough Cnty Rd 2,  Bensfort Bridge,",44.20638264,-78.27879686,A,1965,2021,56,1,urban
+17002101602,Clear Lake Outlet,"Hwy 28,  Young'S Point,",44.48733151,-78.23461998,A,1966,2021,55,1,urban
+17002101702,Lovesick Lake Outlet,"Hwy 28,  Burleigh Falls,",44.55705339,-78.20501636,A,1966,2021,55,1,rural
+17002101802,Buckhorn Lake Outlet,"Peterborough Cnty Rd 23,  Buckhorn,",44.55467864,-78.34458598,A,1966,2021,55,1,urban
+17002102102,Sturgeon Lake Outlet,"Main St,  Bobcaygeon,",44.53859614,-78.54622123,A,1966,2021,55,1,rural
+17002102302,Cameron Lake Outlet,"Victoria Cnty Rd 121,  Fenelon Falls,",44.53515914,-78.73752486,A,1966,2021,55,1,rural
+17002102502,Gull River,"Hwy 35 Coboconk,",44.65846939,-78.79674061,A,1966,2021,55,1,rural
+17002103802,Jackson Creek,"Dalhousie St,  Peterborough,",44.29952301,-78.32066986,A,1969,2021,52,1,urban
+17002104102,Scugog River,"Downstream Lindsay Lagoons,",44.39551751,-78.75349723,A,1970,2021,51,1,rural
+17002105202,Mississauga River,"Peterborough Cnty Rd 36,  1Km,N. Of Buckhorn",44.56394014,-78.34054048,A,1971,2021,50,1,rural
+17002105402,Balsam Lake Outlet,"At Dam,  Rosedale,",44.57366001,-78.78594998,A,1971,2021,50,1,rural
+17002105702,Trent River,"Healey Falls Dam,",44.37636176,-77.78640973,A,1971,2021,38,12,rural
+17002106502,Otonabee River,"Lock 25,  Peterborough Cnty Rd 32, ,S. Of Lakefield",44.40074989,-78.26286723,A,1972,2021,49,1,urban
+17002106702,Trent River,"Bridge St.,  Peterborough Cnty Rd. 45,Hastings",44.30808676,-77.95611536,A,1972,2021,49,1,rural
+17002107002,Otonabee River,"Lock 19 Dam,  Peterborough,",44.28881226,-78.30763061,A,1972,2021,45,5,urban
+17002107102,Salt Creek,"Conc.E.Of Hwy.30 South Of Meyersburg,",44.19960864,-77.81872298,A,1972,2021,38,12,rural
+17002107402,Pigeon River,"Victoria Cnty Rd 14,  Fees Landing,N. Of Omemee",44.34198064,-78.54169786,A,1972,2021,49,1,rural
+17002107502,Burnt River,"Conc 11,  Somerville Twp. S. Of Kinmount,",44.74053601,-78.65936523,A,1972,2021,48,2,rural
+17002107702,Baxter Creek,"Zion 4Th Ln,  Sw Of Millbrook,",44.13534214,-78.45732523,A,1977,2021,44,1,urban
+17002108602,Crowe River,"At South Rd,  Near Gut Conservation Area,Was Previously Inactivated On 31Dec1979",44.77074214,-77.88164948,A,1976,2021,16,29,rural
+17002109202,North River,"At Bridge On Blue Mountain Road,",44.52679451,-77.89834273,A,1976,2021,22,23,rural
+17002109502,Beaver Creek,"At Bridge On Road To Cordova Mines,",44.53391526,-77.69751685,A,1976,2021,33,12,rural
+17002111802,Trent River,"Bridge At Glenn Ross,  Glen Ross Rd,",44.26365514,-77.59664423,A,1980,2021,38,3,urban
+17002111902,Mariposa Brook,"Valentia Rd,  E. Of Little Britain,",44.28545426,-78.82008948,A,1982,2021,27,13,rural
+17002112802,Mayhew Creek,"Front St,  Trenton,",44.10990101,-77.59453485,A,2002,2021,19,0,urban
+17002113002,Scugog River,"Hwys 7 And 35,  Upstrm Lindsay,",44.32767014,-78.73027636,A,1996,2021,26,0,rural
+17002113302,Cold Creek,"Northumberland Cnty Rd 30,  Orland,",44.13468464,-77.78685773,A,2002,2021,19,0,rural
+17002113602,Nonquon River,"River St,  Seagrave,  400M Upstrm,Reg Rd 2",44.20022689,-78.94943136,A,2004,2021,18,0,rural
+17002113702,Blackstock Creek,"Scugog Rd,  Reg Rd 57,  N. Of Blackstock,",44.13187564,-78.82887773,A,2004,2021,18,0,rural
+17002113802,Stoney Creek,"Inflow To Bottle Lake,Kawartha Highland Provincial Park",44.77755439,-78.29348848,A,2004,2021,18,0,rural
+17002113902,Anstruther Lake Outlet,"Fire Route 61,Kawartha Highland Provincial Park",44.72517739,-78.24071848,A,2004,2021,18,0,rural
+17002114002,Cavan Creek,"Hwy 7A At Hwy 115,  S. Of Springville,",44.22696639,-78.39655298,A,2007,2021,15,0,urban
+17002114102,Indian River,"David Fife Ln,  Upstrm Lang,",44.31042414,-78.16019623,A,2007,2021,15,0,urban
+17002114202,Ouse River West,"3Rd Asphodel,  Downstream Westwood,",44.31631164,-78.05432511,A,2007,2021,15,0,rural
+17002114302,Ouse River East,"Centre Ln,  Downstrm Norwood,",44.32723726,-78.04176698,A,2007,2021,15,0,rural
+17002114402,Otonabee River,"Matchett Ln,  Driscolls Cottages,",44.25875551,-78.33458136,A,2007,2021,15,0,urban
+17002114502,Crowe River,"Cnty Rd 620,  Glen Alda,",44.83937339,-77.92419136,A,2007,2021,14,0,rural
+17002115602,Trout Creek,"Grand Road,  Campellford,",44.30642912,-77.80669989,A,2011,2021,11,0,rural
+17002115702,Percy Creek,"Skinkle Rd,  N Of Con 4 E,Outside Of Warkworth",44.2244205,-77.83929756,A,2016,2021,5,0,rural
+17002600102,Moira River,"Footbridge,  End Of Catharine St, ,Belleville",44.16534526,-77.38646773,A,1964,2021,57,0,urban
+17002600202,Moira River,"Farnham Rd,  Cannifton,",44.20605439,-77.39320635,A,1965,2021,56,0,urban
+17002600302,Moira River,"Stoco L. Outlet(West Channel),Cnty Rd 13",44.45845239,-77.29846773,A,1966,2021,55,0,rural
+17002600402,Moira River,"Stoco L. Outlet(East Channel), ,Cnty Rd 13,  Stoco",44.45751576,-77.27672248,A,1965,2021,56,0,rural
+17002600602,Moira River,"Louisa St,  Tweed,",44.47889464,-77.30962048,A,1964,2021,57,0,rural
+17002600702,Clare River,"Greenwood Rd,  Upstrm Stoco Lake,",44.48091226,-77.2706871,A,1965,2021,56,0,rural
+17002600902,Skootamotta River,"Hwy 7,  Upstrm Actinolite,",44.549236,-77.328304,A,1966,2021,56,0,rural
+17002601101,Moira River,"Hwy 62,  S. Of Madoc,",44.47835814,-77.4681561,A,1964,2021,57,0,rural
+17002601202,Deer Creek,"Seymour St.,  Madoc,",44.49953864,-77.4733066,A,1964,2021,55,2,rural
+17002601302,Moira River,"Hwy 7,  Dwnstrm Deloro,",44.49961189,-77.61789323,A,1964,2021,57,0,rural
+17002601902,Moira River,"Malone,  Upstrm Deloro,",44.56276839,-77.60303823,A,1964,2021,52,5,rural
+17002602302,Moira River,"Moira Lake Outlet,  Rapids Rd, E Of Madoc,",44.50971114,-77.39071673,A,1999,2021,22,0,rural
+17002602502,Black River,"Black River Rd,  Downstream Of Highway 7,",44.5366404,-77.37033255,A,2019,2021,2,0,rural
+17003100102,Salmon River,"Dundas St.,  Hastings Cnty Rd 2, ,Shannonville",44.19623539,-77.22939823,A,1964,2021,57,0,rural
+17003500202,Napanee River,"Cnty Rd 1,  Dwnstrm Newburgh,",44.27770201,-76.92817498,A,1969,2021,52,0,rural
+17003500402,Napanee River,"Cnty Rd 27,  Newburgh,",44.32345001,-76.8752776,A,1979,2021,42,0,rural
+17003700302,Wilton Creek,"Cnty Rd 2,  Morven,",44.23924551,-76.8491376,A,1975,2021,37,10,urban
+18000017002,Ottawa River,"Ont. Hydro Plant,  Chats Falls,",45.47494827,-76.23814385,A,1966,2021,56,0,urban
+18000036002,Ottawa River,"At Otto Holden Dam 1200' From P/Q Shore,",46.372615,-78.725639,A,1968,2021,40,13,rural
+18003300302,Kemptville Creek,"Leeds And Grenville Cnty Rd 43, ,Kemptville",45.02735664,-75.64159073,A,1964,2021,58,0,urban
+18003300802,Tay River,"1.5 Km Dwnstrm Perth Lagoons,",44.89281376,-76.19725198,A,1967,2021,54,1,rural
+18003302302,Tay River,"Bolingbroke Station Rd,  At Dam, ,Bolingbroke",44.75978089,-76.51957335,A,1968,2021,53,1,rural
+18003302602,Rideau River,"Rawley Rd,  At Dam,  Kilmarmock,",44.88736514,-75.92729773,A,1970,2021,51,1,rural
+18003302902,Rideau River,"Roger Stevens Rd,  Reg Rd 6,  Dwnstrm Kars,",45.16190239,-75.63389485,A,1970,2021,52,0,urban
+18003303102,Rideau River,"Hogs Back Rd,  Ottawa,",45.37069889,-75.69654048,A,1972,2021,48,1,urban
+18003303402,Rideau River,"St. Patrick St.,  Ottawa,",45.43743002,-75.67854073,A,1969,2021,52,1,urban
+18003303502,Rideau River,"Nicolsons Lock,  Andrewsville,",44.95113552,-75.81947835,A,1980,2021,42,0,rural
+18003303602,Jock River,"Moodie Dr.,  W Of Hwy 416,",45.24920927,-75.7908066,A,1980,2021,42,0,urban
+18003303702,Rideau River,"Long Island Gauging Station, ,Dnstrm Manotick",45.249172,-75.703129,A,1980,2021,42,0,urban
+18207000702,Scotch River West,"Cnty Rd 3,  W. Of St. Isidore,",45.37543089,-74.94766473,A,2003,2021,19,0,rural
+18207000802,Cobbs Lake Creek,"Cnty Rd 19,  Pendleton,",45.44486302,-75.06108698,A,2007,2021,15,0,rural
+18207002002,South Nation River,"Cnty Rd 17,  Dwnstrm Plantagenet,",45.55919927,-75.06332235,A,1966,2021,55,1,rural
+18207006002,Scotch River East,"Conc 19,  Upstrm St.Isidore,",45.37399664,-74.90711423,A,1967,2021,53,2,rural
+18207010002,South Nation River,"At Dam Downstream Of Casselman,",45.31853002,-75.0925301,A,1964,2021,58,0,rural
+18207014502,Castor River,"Wade Rd,  Upstrm Russell Lagoon,Discharge",45.26242627,-75.3436171,A,1980,2021,42,0,urban
+18207015002,South Natiom River,"Cnty Rd. 18,  Augusta Twp.,3 Km. S. Of Roebuck",44.77975064,-75.58635535,A,1995,2021,27,0,rural
+18207016002,South Nation River,"Main St.,  Chesterville,",45.10188314,-75.22882773,A,2002,2021,20,0,rural
+18337012102,Carp River,"John Shaw Rd,  Dwnstrm Kinburn,",45.41750902,-76.1984511,A,1983,2021,39,0,urban
+18343000102,Buckshot Creek,"Frontenac Rd 509,  E. Of Plevna,",44.96843477,-76.96597735,A,2007,2021,15,0,rural
+18343000202,Indian River,"Ramsay Conc 8,  W. Of Blakeney,",45.24535502,-76.26013148,A,2007,2021,15,0,urban
+18343000302,Fall River,"Outlet Of Sharbot Lake,  Guigue Rd,",44.77488689,-76.64032923,A,2007,2021,15,0,rural
+18343003002,Mississippi River,"Railroad Trestle,  Galetta,",45.42325002,-76.25246835,A,1966,2021,56,0,urban
+18343003402,Mississippi River,"At Dam,  Dwnstrm Pakenham,",45.33561552,-76.28698885,A,1970,2021,52,0,urban
+18343006102,Mississippi River,"Lanark Cnty Rd 11,  Appleton,",45.18142302,-76.1253381,A,1983,2021,39,0,urban
+18343017502,Mississippi River,"Dalhousie Lake Outlet,  Lanark,  Cnty Rd 8,",44.97242914,-76.53897848,A,1970,2021,52,0,rural
+18343023002,Mississippi River,"Mazinaw Lake Outlet,  Smarts Rd, ,E. Of Hwy 41",44.85020114,-77.16923323,A,1970,2021,52,0,rural
+18343052002,Clyde River,"At Dam,  Dwnstrm Lanark,",45.01245302,-76.36411773,A,1970,2021,52,0,rural
+18343061002,Fall River,"Bennett Lake Outlet,  Upstrm Fallbrook,",44.94763102,-76.41068235,A,1979,2021,43,0,rural
+18349002002,Madawaska River,"Madawaska Blvd,  Arnprior,",45.43451789,-76.34968485,A,1966,2021,56,0,urban
+18369001002,Bonnechere River,"County Road 3 2 Miles East Of Castleford,",45.51443139,-76.5567031,A,1966,2021,48,8,rural
+18607002002,Mattawa River,"Highway 533 Bridge Mattawa,",46.318781,-78.706637,A,1968,2021,40,13,rural
+18607006002,Kaibuskong River,"Highway 17 15 Miles East Of North Bay,",46.269617,-79.142646,A,1972,2021,19,30,rural
+18607008002,Amable Du Fond River,"Highway 17 10 Mile West Of Mattawa,",46.28699,-78.904388,A,1972,2021,19,30,rural
+19006400102,Mattagami River,"Downstream From Timmins Stp.,",48.49387352,-81.36039561,A,1968,2021,29,25,rural
+19006400402,Porcupine River,"Highway 101 Bridge,  Hoyle,",48.54983827,-81.05480486,A,1968,2021,45,9,rural
+19006401420,Mattagami River,"At Timmins Waterworks Plant,",48.47479377,-81.35320186,A,1972,2021,22,28,rural
+19006404502,Porcupine River,"Hwy 101,  Upstr Of Porcupine Lake,South Porcupine",48.48242452,-81.22226798,A,1991,2021,21,10,rural
+17002153802,Trent River,"Johnstown Road,",44.147685,-77.581857,A,2022,0,1,,urban
+16018415602,Irvine Creek,"At Irvine St, Salem,",43.702036,-80.445345,A,2022,0,1,,rural
+16012401302,Venison Creek,"Reg Rd 60, W of Springarbour ,",42.65337501,-80.54849923,A,2002,2021,11,8,rural
