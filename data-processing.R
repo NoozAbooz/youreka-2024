@@ -16,11 +16,18 @@ pull_contaminant <- function(contaminant){
     return(contaminant_data)
 }
 
-hgut_data <- pull_contaminant('HGUT')
+filter_contaminant <- function(new_contaminant) {
+  new_contaminant_data <- pull_contaminant(new_contaminant)
 
-i <- 1
-for (i in 1:nrow(hgut_data)){
-  match_id <- hgut_data[i,1]
-  hgut_data[i,]$DESIGNATION <- station_designation[station_designation$STATION == match_id, ]$DESIGNATION
+  i <- 1
+  for (i in 1:nrow(new_contaminant_data)){
+    match_id <- new_contaminant_data[i,1]
+   if (match_id %in% station_designation$STATION) {
+     new_contaminant_data[i,]$DESIGNATION <- station_designation[station_designation$STATION == match_id, ]$DESIGNATION
+   } 
+  }
+  
+  return(new_contaminant_data[!is.na(new_contaminant_data$DESIGNATION),])
 }
 
+test <- filter_contaminant('HGUT')
