@@ -11,7 +11,7 @@ individual_statistical_test <- function(contaminant){
   rural <- selected_contaminant[selected_contaminant$DESIGNATION == 'rural',]
   urban <- selected_contaminant[selected_contaminant$DESIGNATION == 'urban',]
   
-  # Run two-sided t-test
+  # Run two-sided t-test, with p = 0.05 
   t_test <- t.test(rural$RESULT, urban$RESULT, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
   
   # Generate boxplot
