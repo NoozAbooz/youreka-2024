@@ -1,5 +1,3 @@
-library(ggplot2)
-
 # Import designations
 station_designation <- read.csv('station_designation.csv')
 station_designation <- station_designation[, c('STATION', 'DESIGNATION')]
