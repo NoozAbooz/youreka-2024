@@ -1,8 +1,7 @@
 source("data-import.R")
 
-# Generate list of significantly different contaminants (p-value < 0.05) and which side is larger
-# to rule out rural
-parm_names <- unique(station_data$PARM)
+# Generate list of significantly different contaminants (p-value < 0.05) and which side (rural vs urban) is larger
+parm_names <- unique(station_data$'Analyte')
 
 significantly_different <- c()
 higher_concentration <- c()
@@ -19,12 +18,12 @@ for (parm in parm_names){
     next
   }
   
-  t_test <- t.test(rural$RESULT, urban$RESULT, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
+  t_test <- t.test(rural$Result, urban$Result, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
   
   # Check if p-value is less than 0.05
-  if (t_test$p.value < 0.05){
+  if (!is.na(t_test$p.value) && t_test$p.value < 0.05){
     # Replace parm with PARM_DESCRIPTION from station_data
-    parm <- unique(station_data$PARM_DESCRIPTION[station_data$PARM == parm])
+    #parm <- unique(station_data$PARM_DESCRIPTION[station_data$PARM == parm])
     significantly_different <- c(significantly_different, parm)
     
     if (t_test$estimate[2] > t_test$estimate[1]){
