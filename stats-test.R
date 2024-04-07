@@ -1,5 +1,6 @@
 source("data-import.R")
 library(ggplot2)
+library(dplyr)
 
 # Individual two-sided stats testing
 individual_statistical_test <- function(contaminant){
@@ -9,13 +10,14 @@ individual_statistical_test <- function(contaminant){
   rural <- selected_contaminant[selected_contaminant$DESIGNATION == 'rural',]
   urban <- selected_contaminant[selected_contaminant$DESIGNATION == 'urban',]
   
-  # Run two-sided t-test, with p = 0.05 
-  t_test <- t.test(rural$Result, urban$Result, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
+  # Run two-sided t-test, with p = 0.05. Data is not normally distributed so don't use this
+  #t_test <- t.test(rural$Result, urban$Result, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
+  # Run Mann Whitney/wilcox U test instead
+  wilcox_test <- wilcox.test(rural$Result, urban$Result, alternative = "two.sided", conf.level = 0.95, exact = FALSE)
   
   # Generate boxplot
   #long_name <- unique(station_data$PARM_DESCRIPTION[station_data$PARM == contaminant])
   unit <- unique(station_data$'Units'[station_data$'Analyte' == contaminant])
-  #boxplot(rural$Result, urban$Result, names = c('Rural', 'Urban'), main = paste(contaminant, 'concentration in rural and urban areas'), ylab = unit, col = c('red', 'blue'), outline=FALSE)
   
   plot.data <- rbind(rural, urban)
   order <- c('rural', 'urban')
@@ -45,7 +47,11 @@ individual_statistical_test <- function(contaminant){
       legend.text = element_text(size = 10)
     )
   
-  #return(t_test)
+  # plot histogram of selected_contaminant
+  #hist(rural$Result, main = paste('Histogram of', contaminant, 'concentration in rural water streams'), xlab = unit, col = 'red', breaks = 20)
+  #hist(urban$Result, main = paste('Histogram of', contaminant, 'concentration in urban water streams'), xlab = unit, col = 'blue', breaks = 20)
+  
+  #return(wilcox_test)
 }
 
-individual_statistical_test('Manganese')
+individual_statistical_test('Uranium')

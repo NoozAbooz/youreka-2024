@@ -11,6 +11,7 @@ station_data <- read.csv('station_data_2021-2022.csv')
 # Keep purge any rows that contain "<" in their result column since they are invalid for a numeric field
 # It seems like these rows indicate the concentrations were too small for the instruments to detect, so we should ignore regardless
 station_data <- station_data[!grepl("[^0-9.]", station_data$Result), ]
+# Convert Result column back to numeric
 station_data$Result <- as.numeric(station_data$Result)
 # Remove rows with empty results
 station_data<- station_data[complete.cases(station_data), ]
@@ -36,6 +37,7 @@ annotate_contaminant <- function(new_contaminant) {
         new_contaminant_data[i,]$DESIGNATION <- station_designation[station_designation$STATION == match_id, ]$DESIGNATION
       } 
     }
-  
+    
+    # Reiterate again to strip rows with no designation/empty
     return(new_contaminant_data[!is.na(new_contaminant_data$DESIGNATION), ])
 }

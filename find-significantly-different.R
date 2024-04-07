@@ -18,15 +18,15 @@ for (parm in parm_names){
     next
   }
   
-  t_test <- t.test(rural$Result, urban$Result, alternative = "two.sided", mu = 0, paired = FALSE, var.equal = FALSE, conf.level = 0.95)
+  wilcox_test <- wilcox.test(rural$Result, urban$Result, alternative = "two.sided", conf.level = 0.95, exact = FALSE)
   
   # Check if p-value is less than 0.05
-  if (!is.na(t_test$p.value) && t_test$p.value < 0.05){
+  if (!is.na(wilcox_test$p.value) && wilcox_test$p.value < 0.05){
     # Replace parm with PARM_DESCRIPTION from station_data
     #parm <- unique(station_data$PARM_DESCRIPTION[station_data$PARM == parm])
     significantly_different <- c(significantly_different, parm)
     
-    if (t_test$estimate[2] > t_test$estimate[1]){
+    if (mean(urban$Result) > mean(rural$Result)){
       higher_concentration <- c(higher_concentration, 'urban')
     } else {
       higher_concentration <- c(higher_concentration, 'rural')
