@@ -1,0 +1,80 @@
+Reactive silicate __**CONTAMINANT**__
+2835335
+
+4.825498e-08
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Copper __**CONTAMINANT**__
+1147423
+
+9.210757e-49
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Uranium __**CONTAMINANT**__
+616655
+
+1.062898e-11
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Zinc __**CONTAMINANT**__
+1733595
+
+3.26295e-22
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Barium __**CONTAMINANT**__
+1589263
+
+8.513646e-78
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Manganese __**CONTAMINANT**__
+1902529
+
+1.230319e-27
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Strontium __**CONTAMINANT**__
+1821706
+
+8.228986e-39
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Lithium __**CONTAMINANT**__
+85342.5
+
+0.0001217138
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Ammonia & ammonium __**CONTAMINANT**__
+3833639
+
+0.0138207
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Molybdenum __**CONTAMINANT**__
+1348
+
+4.61607e-09
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result

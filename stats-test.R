@@ -1,4 +1,5 @@
 source("data-import.R")
+options(warn=-1)
 library(ggplot2)
 library(dplyr)
 
@@ -19,9 +20,11 @@ individual_statistical_test <- function(contaminant){
   #long_name <- unique(station_data$PARM_DESCRIPTION[station_data$PARM == contaminant])
   unit <- unique(station_data$'Units'[station_data$'Analyte' == contaminant])
   
+  # Combine into one dataframe
   plot.data <- rbind(rural, urban)
   order <- c('rural', 'urban')
   
+  # Generate boxplot with ggplot default colours
   ggplot(plot.data, aes(x = DESIGNATION, y = Result, color = DESIGNATION)) +
     geom_boxplot(outlier.shape = NA) +
     scale_y_continuous(limits = quantile(urban$Result, c(0.1, 0.92))) +
@@ -46,9 +49,10 @@ individual_statistical_test <- function(contaminant){
       legend.title = element_text(size = 12),
       legend.text = element_text(size = 10)
     )
-  ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 10, height = 10, units = 'in', dpi = 300)
+  # Save plot as image
+  ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 20, height = 15, units = 'in', dpi = 300)
   
-  # make violin plot
+  # Generate violin plot
   ggplot(plot.data, aes(x = DESIGNATION, y = Result, fill = DESIGNATION)) +
     geom_violin(trim = FALSE) +
     scale_y_continuous(limits = quantile(urban$Result, c(0.1, 0.92))) +
@@ -73,9 +77,16 @@ individual_statistical_test <- function(contaminant){
       legend.text = element_text(size = 10)
     )
   
-  ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 10, height = 10, units = 'in', dpi = 300)
-  #return(wilcox_test)
+  ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 20, height = 15, units = 'in', dpi = 300)
+  
+  # Return test results from before
+  sink("wilcox_test.txt", append=TRUE)
+  cat(contaminant, "__**CONTAMINANT**__\n")
+  lapply(wilcox_test, write, "wilcox_test.txt", append=TRUE, ncolumns=1000)
 }
 
-individual_statistical_test('Uranium')
-
+contaminants_to_test <- c('Reactive silicate', 'Copper', 'Uranium', 'Zinc', 'Barium', 'Manganese', 'Strontium', 'Lithium', 'Ammonia & ammonium', 'Molybdenum')
+i <- 1
+for (i in contaminants_to_test){
+    individual_statistical_test(i)
+}
