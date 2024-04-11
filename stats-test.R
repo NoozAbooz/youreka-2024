@@ -46,14 +46,34 @@ individual_statistical_test <- function(contaminant){
       legend.title = element_text(size = 12),
       legend.text = element_text(size = 10)
     )
+  ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 10, height = 10, units = 'in', dpi = 300)
   
-  # plot histogram of selected_contaminant
-  breaks <- c(0, 2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5, 30, 32.5, 35, 37.5, 40, 42.5, 45, 47.5, 50)
-  hist_rural <- hist(rural$Result, xlab = unit, col = 'red', breaks = breaks, freq = FALSE)
-  hist_urban <- hist(urban$Result, xlab = unit, col = 'blue', breaks = breaks, freq = FALSE)
-  plot(hist_rural, col=rgb(0,0,1,1/4))
-  plot(hist_urban, col=rgb(1,0,0,1/4), add=T)
+  # make violin plot
+  ggplot(plot.data, aes(x = DESIGNATION, y = Result, fill = DESIGNATION)) +
+    geom_violin(trim = FALSE) +
+    scale_y_continuous(limits = quantile(urban$Result, c(0.1, 0.92))) +
+    coord_cartesian(ylim = quantile(urban$Result, c(0.1, 0.92))) +
+    ggtitle(paste(contaminant, 'distribution in rural and urban water streams')) +
+    ylab(unit) +
+    scale_x_discrete(limits=order,labels=c("Rural", "Urban")) +
+    labs(
+      subtitle = "Based on Ontario provincial water quality testing data collected between 2021 and 2022",
+      caption = "Source: Ontario Open Data Catalogue, 2024",
+      x = "Designation"
+    ) +
+    theme(
+      plot.title = element_text(size = 25, face = "bold"),
+      plot.subtitle = element_text(size = 10, face = "italic"),
+      plot.caption = element_text(size = 8, face = "italic"),
+      axis.title.x = element_text(size = 12, face = "bold"),
+      axis.title.y = element_text(size = 12, face = "bold"),
+      axis.text.x = element_text(size = 10),
+      axis.text.y = element_text(size = 10),
+      legend.title = element_text(size = 12),
+      legend.text = element_text(size = 10)
+    )
   
+  ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 10, height = 10, units = 'in', dpi = 300)
   #return(wilcox_test)
 }
 
