@@ -48,10 +48,14 @@ individual_statistical_test <- function(contaminant){
     )
   
   # plot histogram of selected_contaminant
-  #hist(rural$Result, main = paste('Histogram of', contaminant, 'concentration in rural water streams'), xlab = unit, col = 'red', breaks = 20)
-  #hist(urban$Result, main = paste('Histogram of', contaminant, 'concentration in urban water streams'), xlab = unit, col = 'blue', breaks = 20)
+  breaks <- c(0, 2.5, 5, 7.5, 10, 12.5, 15, 17.5, 20, 22.5, 25, 27.5, 30, 32.5, 35, 37.5, 40, 42.5, 45, 47.5, 50)
+  hist_rural <- hist(rural$Result, xlab = unit, col = 'red', breaks = breaks, freq = FALSE)
+  hist_urban <- hist(urban$Result, xlab = unit, col = 'blue', breaks = breaks, freq = FALSE)
+  plot(hist_rural, col=rgb(0,0,1,1/4))
+  plot(hist_urban, col=rgb(1,0,0,1/4), add=T)
   
   #return(wilcox_test)
 }
 
 individual_statistical_test('Uranium')
+
