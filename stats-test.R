@@ -26,6 +26,8 @@ individual_statistical_test <- function(contaminant){
   
   # Generate boxplot with ggplot default colours
   ggplot(plot.data, aes(x = DESIGNATION, y = Result, color = DESIGNATION)) +
+    scale_color_grey() +
+    scale_fill_grey() +
     geom_boxplot(outlier.shape = NA) +
     scale_y_continuous(limits = quantile(urban$Result, c(0.1, 0.92))) +
     coord_cartesian(ylim = quantile(urban$Result, c(0.1, 0.92))) +
@@ -54,6 +56,8 @@ individual_statistical_test <- function(contaminant){
   
   # Generate violin plot
   ggplot(plot.data, aes(x = DESIGNATION, y = Result, fill = DESIGNATION)) +
+    scale_color_grey() +
+    scale_fill_grey() +
     geom_violin(trim = FALSE) +
     scale_y_continuous(limits = quantile(urban$Result, c(0.1, 0.92))) +
     coord_cartesian(ylim = quantile(urban$Result, c(0.1, 0.92))) +
@@ -85,6 +89,7 @@ individual_statistical_test <- function(contaminant){
   lapply(wilcox_test, write, "wilcox_test.txt", append=TRUE, ncolumns=1000)
 }
 
+# Iterate through chosen list of contaminants and generate plots/p-values
 contaminants_to_test <- c('Reactive silicate', 'Copper', 'Uranium', 'Zinc', 'Barium', 'Manganese', 'Strontium', 'Lithium', 'Ammonia & ammonium', 'Molybdenum')
 i <- 1
 for (i in contaminants_to_test){

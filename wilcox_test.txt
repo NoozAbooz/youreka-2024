@@ -1,5 +1,5 @@
 Reactive silicate __**CONTAMINANT**__
-2835335
+2835334
 
 4.825498e-08
 0
@@ -7,7 +7,7 @@ two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
 Copper __**CONTAMINANT**__
-1147423
+1147422
 
 9.210757e-49
 0
@@ -39,7 +39,7 @@ two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
 Manganese __**CONTAMINANT**__
-1902529
+1902528
 
 1.230319e-27
 0
@@ -63,7 +63,7 @@ two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
 Ammonia & ammonium __**CONTAMINANT**__
-3833639
+3833638
 
 0.0138207
 0
