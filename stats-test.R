@@ -90,7 +90,7 @@ individual_statistical_test <- function(contaminant){
 }
 
 # Iterate through chosen list of contaminants and generate plots/p-values
-contaminants_to_test <- c('Reactive silicate', 'Copper', 'Uranium', 'Zinc', 'Barium', 'Manganese', 'Strontium', 'Lithium', 'Ammonia & ammonium', 'Molybdenum')
+contaminants_to_test <- c('Reactive silicate', 'Copper', 'Uranium', 'Zinc', 'Barium', 'Manganese', 'Strontium', 'Lithium', 'Ammonia & ammonium', 'Molybdenum', 'Nickel', 'Dissolved organic carbon', 'Nitrate')
 i <- 1
 for (i in contaminants_to_test){
     individual_statistical_test(i)

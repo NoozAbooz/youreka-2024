@@ -78,3 +78,27 @@ Molybdenum __**CONTAMINANT**__
 two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
+Nickel __**CONTAMINANT**__
+58870
+
+1.230219e-11
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Dissolved organic carbon __**CONTAMINANT**__
+3544797
+
+1.894867e-14
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+Nitrate __**CONTAMINANT**__
+4153373
+
+0.0001756326
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
