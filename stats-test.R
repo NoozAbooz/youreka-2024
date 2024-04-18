@@ -41,15 +41,15 @@ individual_statistical_test <- function(contaminant){
       x = "Designation"
     ) +
     theme(
-      plot.title = element_text(size = 25, face = "bold"),
-      plot.subtitle = element_text(size = 10, face = "italic"),
-      plot.caption = element_text(size = 8, face = "italic"),
-      axis.title.x = element_text(size = 12, face = "bold"),
-      axis.title.y = element_text(size = 12, face = "bold"),
-      axis.text.x = element_text(size = 10),
-      axis.text.y = element_text(size = 10),
-      legend.title = element_text(size = 12),
-      legend.text = element_text(size = 10)
+      plot.title = element_text(size = 50, face = "bold"),
+      plot.subtitle = element_text(size = 30, face = "italic"),
+      plot.caption = element_text(size = 30, face = "italic"),
+      axis.title.x = element_text(size = 30, face = "bold"),
+      axis.title.y = element_text(size = 30, face = "bold"),
+      axis.text.x = element_text(size = 30),
+      axis.text.y = element_text(size = 30),
+      legend.title = element_text(size = 22),
+      legend.text = element_text(size = 30)
     )
   # Save plot as image
   ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 20, height = 15, units = 'in', dpi = 300)
@@ -70,17 +70,16 @@ individual_statistical_test <- function(contaminant){
       x = "Designation"
     ) +
     theme(
-      plot.title = element_text(size = 25, face = "bold"),
-      plot.subtitle = element_text(size = 10, face = "italic"),
-      plot.caption = element_text(size = 8, face = "italic"),
-      axis.title.x = element_text(size = 12, face = "bold"),
-      axis.title.y = element_text(size = 12, face = "bold"),
-      axis.text.x = element_text(size = 10),
-      axis.text.y = element_text(size = 10),
-      legend.title = element_text(size = 12),
-      legend.text = element_text(size = 10)
+        plot.title = element_text(size = 50, face = "bold"),
+        plot.subtitle = element_text(size = 30, face = "italic"),
+        plot.caption = element_text(size = 30, face = "italic"),
+        axis.title.x = element_text(size = 30, face = "bold"),
+        axis.title.y = element_text(size = 30, face = "bold"),
+        axis.text.x = element_text(size = 30),
+        axis.text.y = element_text(size = 30),
+        legend.title = element_text(size = 22),
+        legend.text = element_text(size = 30)
     )
-  
   ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 20, height = 15, units = 'in', dpi = 300)
   
   # Return test results from before
