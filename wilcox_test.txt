@@ -1,84 +1,6 @@
-Reactive silicate __**CONTAMINANT**__
-2835334
+Nickel
+__**CONTAMINANT**__
 
-4.825498e-08
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Copper __**CONTAMINANT**__
-1147422
-
-9.210757e-49
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Uranium __**CONTAMINANT**__
-616655
-
-1.062898e-11
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Zinc __**CONTAMINANT**__
-1733595
-
-3.26295e-22
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Barium __**CONTAMINANT**__
-1589263
-
-8.513646e-78
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Manganese __**CONTAMINANT**__
-1902528
-
-1.230319e-27
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Strontium __**CONTAMINANT**__
-1821706
-
-8.228986e-39
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Lithium __**CONTAMINANT**__
-85342.5
-
-0.0001217138
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Ammonia & ammonium __**CONTAMINANT**__
-3833638
-
-0.0138207
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Molybdenum __**CONTAMINANT**__
-1348
-
-4.61607e-09
-0
-two.sided
-Wilcoxon rank sum test with continuity correction
-rural$Result and urban$Result
-Nickel __**CONTAMINANT**__
 58870
 
 1.230219e-11
@@ -86,7 +8,59 @@ Nickel __**CONTAMINANT**__
 two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
-Dissolved organic carbon __**CONTAMINANT**__
+
+
+Potassium
+__**CONTAMINANT**__
+
+1693546
+
+3.011147e-58
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Reactive silicate
+__**CONTAMINANT**__
+
+2835334
+
+4.825498e-08
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Copper
+__**CONTAMINANT**__
+
+1147422
+
+9.210757e-49
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Nitrogen; total
+__**CONTAMINANT**__
+
+5723336
+
+9.916024e-05
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Dissolved organic carbon
+__**CONTAMINANT**__
+
 3544797
 
 1.894867e-14
@@ -94,7 +68,239 @@ Dissolved organic carbon __**CONTAMINANT**__
 two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
-Nitrate __**CONTAMINANT**__
+
+
+Titanium
+__**CONTAMINANT**__
+
+1535498
+
+0.00478158
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Uranium
+__**CONTAMINANT**__
+
+616655
+
+1.062898e-11
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Zinc
+__**CONTAMINANT**__
+
+1733595
+
+3.26295e-22
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Solids; suspended
+__**CONTAMINANT**__
+
+4693028
+
+0.04309489
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Sodium
+__**CONTAMINANT**__
+
+1165743
+
+3.700868e-183
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Magnesium
+__**CONTAMINANT**__
+
+1897856
+
+7.505226e-29
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Phosphorus; total
+__**CONTAMINANT**__
+
+4982144
+
+1.413068e-07
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Chloride
+__**CONTAMINANT**__
+
+2813617
+
+8.619205e-245
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Barium
+__**CONTAMINANT**__
+
+1589263
+
+8.513646e-78
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Manganese
+__**CONTAMINANT**__
+
+1902528
+
+1.230319e-27
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Calcium
+__**CONTAMINANT**__
+
+1843169
+
+1.10116e-35
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Iron
+__**CONTAMINANT**__
+
+2104778
+
+8.906545e-09
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Strontium
+__**CONTAMINANT**__
+
+1821706
+
+8.228986e-39
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Conductivity
+__**CONTAMINANT**__
+
+3625022
+
+4.750785e-116
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Lithium
+__**CONTAMINANT**__
+
+85342.5
+
+0.0001217138
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Nitrogen; nitrite
+__**CONTAMINANT**__
+
+5020412
+
+0.006951273
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Phosphorus; phosphate
+__**CONTAMINANT**__
+
+4859671
+
+1.737159e-05
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Ammonia & ammonium
+__**CONTAMINANT**__
+
+3833638
+
+0.0138207
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Nitrogen; nitrate+nitrite
+__**CONTAMINANT**__
+
+4951143
+
+6.42653e-06
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Nitrate
+__**CONTAMINANT**__
+
 4153373
 
 0.0001756326
@@ -102,3 +308,77 @@ Nitrate __**CONTAMINANT**__
 two.sided
 Wilcoxon rank sum test with continuity correction
 rural$Result and urban$Result
+
+
+Cobalt
+__**CONTAMINANT**__
+
+86902
+
+0.003220658
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Hardness
+__**CONTAMINANT**__
+
+1350845
+
+3.07723e-34
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Solids; dissolved
+__**CONTAMINANT**__
+
+10093
+
+1.146619e-06
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Solids; total
+__**CONTAMINANT**__
+
+10414
+
+6.18331e-06
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Oxygen demand; biochemical
+__**CONTAMINANT**__
+
+3910
+
+0.0002127671
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
+Molybdenum
+__**CONTAMINANT**__
+
+1348
+
+4.61607e-09
+0
+two.sided
+Wilcoxon rank sum test with continuity correction
+rural$Result and urban$Result
+
+
