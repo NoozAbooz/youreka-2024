@@ -53,7 +53,7 @@ individual_statistical_test <- function(contaminant){
             legend.text = element_text(size = 30)
         )
     # Save plot as image
-    ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 25, height = 15, units = 'in', dpi = 300)
+    ggsave(paste('./plots/', contaminant, '_boxplot.png'), width = 28, height = 15, units = 'in', dpi = 300)
     
     # Generate violin plot
     ggplot(plot.data, aes(x = DESIGNATION, y = Result, fill = DESIGNATION)) +
@@ -81,7 +81,7 @@ individual_statistical_test <- function(contaminant){
             legend.title = element_text(size = 22),
             legend.text = element_text(size = 30)
         )
-    ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 30, height = 15, units = 'in', dpi = 300)
+    ggsave(paste('./plots/', contaminant, '_violinplot.png'), width = 28, height = 15, units = 'in', dpi = 300)
     
     # Return test results from before
     cat(contaminant, "__**CONTAMINANT**__\n")
